@@ -10,15 +10,18 @@
             "includePath": [
                 "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/include",
                 "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/src",
+                "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit SSD1306",
+                "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit GFX Library",
                 "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/DallasTemperature",
                 "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/OneWire",
                 "/home/bravo6/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/bravo6/.platformio/packages/framework-arduino-avr/variants/standard",
+                "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit BusIO",
+                "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -26,15 +29,18 @@
                 "path": [
                     "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/include",
                     "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/src",
+                    "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit SSD1306",
+                    "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit GFX Library",
                     "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/DallasTemperature",
                     "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/OneWire",
                     "/home/bravo6/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/bravo6/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "/home/bravo6/Desktop/Academics/Advanced Cyber Physical Systems (3012)/Project/hydrochecker/.pio/libdeps/uno/Adafruit BusIO",
+                    "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                    "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "/home/bravo6/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
